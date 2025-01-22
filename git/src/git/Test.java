@@ -8,6 +8,12 @@ public class Test {
 	public void subtraction()
 	{
 		System.out.println("sub");
+		
+	}
+	public void multiply()
+	{
+		System.out.println("multiply");
+		
 	}
 			
 		
