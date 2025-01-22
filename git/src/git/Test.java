@@ -5,7 +5,10 @@ public class Test {
 	{
 		System.out.println ("addition");
 	}
-		
+	public void subtraction()
+	{
+		System.out.println("sub");
+	}
 			
 		
 	public static void main(String[] args) {
